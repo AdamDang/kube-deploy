@@ -5161,7 +5161,7 @@ type ListAllowedNodeTypeModificationsInput struct {
 
 	// The name of the cache cluster you want to scale up to a larger node instanced
 	// type. ElastiCache uses the cluster id to identify the current node type of
-	// this cluster and from that to to create a list of node types you can scale
+	// this cluster and from that to create a list of node types you can scale
 	// up to.
 	//
 	//  You must provide a value for either the CacheClusterId or the ReplicationGroupId.

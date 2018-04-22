@@ -1608,7 +1608,7 @@
     },
     "format": {
      "type": "string",
-     "description": "The format of the variant data being imported. If unspecified, defaults to to `VCF`.",
+     "description": "The format of the variant data being imported. If unspecified, defaults to `VCF`.",
      "enum": [
       "FORMAT_UNSPECIFIED",
       "FORMAT_VCF",

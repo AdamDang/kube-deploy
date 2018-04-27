@@ -1348,7 +1348,7 @@ func (s *DictlayerdataDictWordsSource) MarshalJSON() ([]byte, error) {
 type Discoveryclusters struct {
 	Clusters []*DiscoveryclustersClusters `json:"clusters,omitempty"`
 
-	// Kind: Resorce type.
+	// Kind: Resource type.
 	Kind string `json:"kind,omitempty"`
 
 	TotalClusters int64 `json:"totalClusters,omitempty"`
@@ -2191,7 +2191,7 @@ func (s *SeriesSeries) MarshalJSON() ([]byte, error) {
 }
 
 type Seriesmembership struct {
-	// Kind: Resorce type.
+	// Kind: Resource type.
 	Kind string `json:"kind,omitempty"`
 
 	Member []*Volume `json:"member,omitempty"`

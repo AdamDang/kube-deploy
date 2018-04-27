@@ -806,7 +806,7 @@
     },
     "kind": {
      "type": "string",
-     "description": "Resorce type.",
+     "description": "Resource type.",
      "default": "books#discovery#clusters"
     },
     "totalClusters": {
@@ -1403,7 +1403,7 @@
    "properties": {
     "kind": {
      "type": "string",
-     "description": "Resorce type.",
+     "description": "Resource type.",
      "default": "books#series#membership"
     },
     "member": {

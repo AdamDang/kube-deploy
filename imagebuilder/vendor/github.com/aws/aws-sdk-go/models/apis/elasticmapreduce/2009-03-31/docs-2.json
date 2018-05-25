@@ -652,7 +652,7 @@
       }
     },
     "ListBootstrapActionsOutput": {
-      "base": "<p>This output contains the boostrap actions detail .</p>",
+      "base": "<p>This output contains the bootstrap actions detail .</p>",
       "refs": {
       }
     },
